@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @abhinavshukla01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abhinav Shukla.
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Software Engineering.
+- 💞️ I’m looking to collaborate on any good project idea. 
+- 📫 You can reach out to me letmecode001@gmail.com
+- ❤️ Subscribe me on YouTube @LetMeCode on youTube.
 
 <!---
 abhinavshukla01/abhinavshukla01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
