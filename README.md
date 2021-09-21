@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on any good project idea. 
 - 📫 You can reach out to me letmecode001@gmail.com
-- ❤️ Subscribe me on YouTube @LetMeCode on youTube.
+- ❤️ Subscribe me on YouTube https://www.youtube.com/channel/UCfMiFzSrqj8xuBWo-cxwMDg on youTube.
 
 <!---
 abhinavshukla01/abhinavshukla01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
